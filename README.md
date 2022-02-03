@@ -17,3 +17,12 @@
 
 ## Technologies
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" width="80px"/>   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/>   <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="100px"/>    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" width="80px"/>
+
+
+## GitHub stats
+
+[![alcantar98's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcantar98&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=alcantar98&show_icons=true&theme=vue-dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcantar98&layout=compact&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=alcantar98&layout=compact&show_icons=true&theme=vue-dark)
+
