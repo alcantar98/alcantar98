@@ -1,5 +1,5 @@
 # Hi there! ✌
-# My Name is José Jesús Alcantar Saavedra
+# My Name is José Jesús Alcantar Saavedra.
 
 ## About me
 💻 I'm a computer systems engineering student at Instituto Tecnológico Superior del Sur de Guanajuato.<br>
